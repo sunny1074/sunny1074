@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 I'm currently pursuing **BCA** at *Bhagwati Institute of Technology & Science (2023–2026)*<br>- 🌱 I’m learning **React**, **Git**, and **Responsive Web Design**<br>- 💻 Completed **Web Development Internship** @ Algonive (June–July 2025)<br>- 🏆 Winner of **Hackathon**, **Coding Puzzle**, and **Debug the Code** challenges at BITS Campus<br>- 🔭 I’m building real-world projects that solve practical problems<br>- 📫 You can reach me at **ksantosh3153@gmail.com**
+- 🎓 I'm currently pursuing **BCA** at *Bhagwati Institute of Technology & Science (2023–2026)*<br>- 🌱 I’m learning **React**, **Git**, and **Responsive Web Design**<br>- 💻 Completed **Web Development Internship** @ Algonive (June–July 2025)<br>- 🏆 Winner of **Hackathon**, **Coding Puzzle**, and **Debug the Code** challenges at BITS Campus<br>- 🔭 I’m building real-world projects that solve practical problems<br>- 📫 You can reach me at **palsunnykumar1074@gmail.com**
 
 
 ## 🌐 Socials:
